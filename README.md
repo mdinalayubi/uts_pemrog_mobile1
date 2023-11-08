@@ -3,6 +3,8 @@
 # KELAS : TI.22.A3
 # NIM : 312210293
 
+## Soal
+![gamabar](gambar/tugaspm1.png)
 ## Input
 * ```AndroidManifest.xml```
 ```python
